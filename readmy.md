@@ -30,3 +30,10 @@ git commit -m "Titre du commit"
 git push origin master
 
 ´´´´
+
+## Creation d'une branche
+
+´´´´bash
+git checkout -b NOM_BRANCHE
+
+´´´´
