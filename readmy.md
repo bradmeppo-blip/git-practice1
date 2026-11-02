@@ -11,3 +11,4 @@ En effet je n'arrivais pas a push mes mise a jour
 sur GitHub parceque j'avais renommer le nom du 
 fichier contenant la cles SSH
 
+# Rediger un beau commit
