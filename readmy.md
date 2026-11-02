@@ -37,3 +37,6 @@ git push origin master
 git checkout -b NOM_BRANCHE
 
 ´´´´
+
+Pour les bonnes pratiques, on vas ajouter les 
+notions de revus de code
