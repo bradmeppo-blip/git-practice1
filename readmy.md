@@ -26,7 +26,11 @@ sur l'evolution du projet
 
 ´´´´bash
 git add .
-git commit -m " UN COMMENTAIRE "
+
+git commit -m "Je change ce titre de commentaire"
+
+JE RAJOUTE CECI POUR VERIFIER ENCORE
+
 git push origin master
 
 ´´´´
